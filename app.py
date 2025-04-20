@@ -83,3 +83,6 @@ if st.button("Clear Chat"):
     st.session_state.history = []
     st.session_state.input_key = 0
     st.rerun()  # Updated from st.experimental_rerun()..........
+    # im addinb a hash
+    # im also testing some stuff out
+    
